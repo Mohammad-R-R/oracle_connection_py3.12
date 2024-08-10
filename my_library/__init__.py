@@ -1,3 +1,4 @@
-from .file_reader import SimpleFileReader
-from .data_parser import SimpleConnectionDataParser
 from .connection import Connection
+from .connection import SimpleConnectionDataParser
+from .connection import SimpleFileReader
+
