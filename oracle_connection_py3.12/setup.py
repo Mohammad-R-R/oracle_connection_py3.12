@@ -9,5 +9,5 @@ setup(
     description='A simple library for handling connections',
     author='Your Name',
     author_email='your.email@example.com',
-    url='https://github.com/yourusername/my_library',  # Update with your actual repository URL
+    url='https://github.com/Mohammad-R-R/oracle_connection_py3.12/tree/main/oracle_connection_py3.12',  # Update with your actual repository URL
 )
